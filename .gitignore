@@ -1,0 +1,9 @@
+target/
+.settings/
+*.log
+.classpath
+.project
+*.SIG
+.idea
+node_modules/
+coverage/
